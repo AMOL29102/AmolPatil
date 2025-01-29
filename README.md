@@ -54,7 +54,7 @@
   
   <br/><br/>
   
-  <a href="https://www.codechef.com/users/interpidlynx">
+  <a href="https://www.codechef.com/users/amolpatilamp55">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a>
 <!--   <a href="https://codeforces.com/profile/shounakm26">
